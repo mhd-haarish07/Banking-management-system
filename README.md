@@ -22,7 +22,3 @@ history — built to demonstrate database management and application logic.
 
 ### Prerequisites
 - compiler, e.g., JDK 17,
--
-
-
-```
